@@ -4,14 +4,13 @@ This is a challenge from frontendmentor.io it's purpuse is to develope skills fo
 
 Live website:
 
-https://quiet-queijadas-4325fe.netlify.app
+https://snazzy-rugelach-dcd19f.netlify.app
 
 
 Mobile view:
 
-<img src="https://user-images.githubusercontent.com/103607112/168491199-61af1e47-f11f-4ff2-b99b-7157740fb86b.png" width="250px" height="auto" title="mobile-view">
+<img src="https://user-images.githubusercontent.com/103607112/168652089-eac8359e-f3a5-474a-960e-e01b853d923d.png" width="250px" height="auto" title="mobile-view">
 
 Desktop view:
 
-<img src="https://user-images.githubusercontent.com/103607112/168491197-1ecf3bf5-aa68-446f-b10f-8997efec26df.png" width="1440px" height="auto" title="desktop-view">
-
+<img src="https://user-images.githubusercontent.com/103607112/168652085-ec5a8a83-88f9-4a63-b9e6-331676ebd1d0.png" width="1440px" height="auto" title="desktop-view">
